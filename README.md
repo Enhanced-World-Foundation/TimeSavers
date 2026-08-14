@@ -1,5 +1,14 @@
 Content list Github Archive Open Source Tools - Enhanced.World Initiative | Karol TianLong:
 
+-----------------------------------------------------------------------------
+
+
+File Name - Description - Highlights - Version
+
+2. MyLocallAI_Installator_1Click-Basic+.zip- Checks the hardware, recommends one LLM model, installs Oolama and the model, benchmarks with recommendation. An Python depandand tool, ready for premium.py expansion - 1.01 EN / PL 
+
+1. OneClick#1local_ai-vr1F.exe - Basic instalator for windows - downloads and installs Oolama & Qwen 3.5:7b, 0.99 PL 
+
 
 -------------------------------------------------------------
 
@@ -18,14 +27,3 @@ https://locally4me.org
 
 Essential Crisis Software - Github Open Source Pro Publico Bono Invitation!
 https://enhanced.world/ecs/
-
------------------------------------------------------------------------------
-
-
-File Name - Description - Highlights - Version
-
-2. MyLocallAI_Installator_1Click-Basic+.zip- Checks the hardware, recommends one LLM model, installs Oolama and the model, benchmarks with recommendation. An Python depandand tool, ready for premium.py expansion - 1.01 EN / PL 
-
-1. OneClick#1local_ai-vr1F.exe - Basic instalator for windows - downloads and installs Oolama & Qwen 3.5:7b, 0.99 PL 
-
-
