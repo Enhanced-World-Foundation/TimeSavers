@@ -1,0 +1,216 @@
+LICENSE AGREEMENT - Type A 1-Clicks.
+
+Effective Date: 2026-08-01
+Licensor / Author: Karol Kwestarz-Maciejewski
+Contact: research@enhanced.world
+Website: ko-fi.com/4community/
+
+This License Agreement (“Agreement”) governs access to and use of the digital products, automation tools, templates, generators, scripts, documentation, and related materials made available by the Licensor (“Products”).
+
+By downloading, accessing, installing, purchasing, or using any Product, you agree to be bound by this Agreement. If you do not agree, do not use the Product.
+
+1. Definitions
+
+For the purposes of this Agreement:
+
+“Product” means any software, script, automation, template, generator, file, package, plugin, workflow, configuration, documentation, or other digital material provided by the Licensor, including free and paid items.
+
+“License Type A” means the standard end-user license described in Section 2.
+
+“License Type B” means the resale / commercial redistribution license described in Section 3, granted only when explicitly issued by the Licensor.
+
+“Licensed Copy” means a copy of a Product lawfully obtained from the Licensor or from an authorized channel.
+
+“Modification” means any adaptation, customization, translation, derivation, extraction, reformatting, enhancement, or integration of a Product or parts of it into another work or system.
+
+“Public Distribution” means making a Product or any substantial part of it available to the public, including by upload, sharing, posting, reselling, sublicensing, mirroring, or embedding in a way that allows third parties to access the Product directly.
+
+2. License Type A — Standard Use License
+
+Subject to the terms of this Agreement and payment, if applicable, the Licensor grants you a limited, non-exclusive, non-transferable, non-sublicensable license to:
+
+install, access, and use the Product for personal, internal, or commercial use within your own operations;
+create Modifications for your own use;
+retain and use a modified version of the Product, provided that all copyright, authorship, attribution, and license notices remain intact and clearly visible in the Product or accompanying files;
+use free and paid Products under the same core restrictions, unless the Product page or written agreement states otherwise.
+
+Under License Type A, you may not:
+
+resell, rent, lease, sublicense, or otherwise redistribute the Product or any copy of it;
+publicly share, publish, mirror, upload, host, or make the Product available to third parties;
+remove, hide, or alter copyright notices, author attribution, brand references, license text, or embedded credit links;
+claim authorship of the original Product;
+use the Product in a way that violates applicable law, third-party rights, or platform rules;
+use the Product to create a competing repository, marketplace, template library, clone, or replacement service based primarily on the same Product structure or assets.
+
+License Type A is the default license for all Products unless License Type B is explicitly granted in writing.
+
+3. License Type B — Resale / Redistribution / Commercial Template License
+
+License Type B is a separate, individually granted license that may be offered with selected packages, upgrades, or written approval from the Licensor.
+
+When granted, License Type B permits the licensee to:
+
+resell lawful copies, derivative versions, or bundled implementations of the Product;
+redistribute modified versions of the Product to end users or clients;
+package the Product into tools, services, templates, generators, or systems for commercial sale;
+sublicense use;
+use the Product ecosystem, template sets, or generator framework in a commercial offering.
+
+Each License Type B grant may include:
+
+a unique license number or serial identifier;
+permitted distribution channels;
+branding requirements;
+attribution requirements;
+restrictions on white-labeling, sublicensing, or transfer.
+
+Unless a written License Type B grant states otherwise, the following remain prohibited:
+
+removing the Licensor’s attribution, trademark, or required footer;
+implying exclusive ownership of the original Product framework;
+distributing the Product in any form beyond the approved scope.
+
+License Type B is valid only for the person or entity named in the grant and is not transferable without prior written consent.
+
+4. Attribution and Notice Requirements
+
+If you modify a Product, you must retain the original authorship notice, license reference, and any required credit line in a reasonable and visible form.
+
+If the Product includes a footer, embedded credit, or branded reference, you must preserve it unless the applicable written license expressly allows removal.
+
+Where technically feasible, modified versions should include a clear notice such as:
+
+“Modified from an original product by [Author/Brand].”
+
+5. Ownership
+
+The Licensor retains all right, title, and interest in and to the original Product, including all intellectual property rights, source materials, design logic, naming, documentation, frameworks, and original structural elements, except for rights expressly granted under this Agreement.
+
+No ownership is transferred to you under this Agreement.
+
+6. Support, Maintenance, and Updates
+
+Unless separately stated in writing, the Product is provided as is and as available.
+
+The Licensor is under no obligation to provide:
+
+support,
+updates,
+bug fixes,
+compatibility changes,
+installation assistance,
+customization services,
+hosting,
+availability guarantees,
+future feature development.
+
+Any support, maintenance, or consulting, if offered, is discretionary unless covered by a separate paid support agreement.
+
+7. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Product is provided without warranties of any kind, whether express, implied, statutory, or otherwise, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, reliability, or uninterrupted operation.
+
+The Licensor does not warrant that the Product will:
+
+meet your expectations,
+be error-free,
+be compatible with every system or environment,
+remain available indefinitely,
+produce any particular business, financial, legal, technical, or operational result.
+
+You are solely responsible for evaluating the Product before using it in any production, business, or client environment.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Licensor shall not be liable for any direct, indirect, incidental, consequential, special, exemplary, punitive, or exemplary damages, or any loss of profits, revenue, data, goodwill, business opportunity, or reputation arising from or related to the use of, or inability to use, the Product.
+
+This limitation applies whether the claim is based on contract, tort, negligence, strict liability, or any other legal theory, even if the Licensor has been advised of the possibility of such damages.
+
+If liability cannot be fully excluded under applicable law, the Licensor’s total aggregate liability shall be limited to the amount actually paid by you for the specific Product giving rise to the claim, if any.
+
+9. Indemnification
+
+To the maximum extent permitted by law, you agree to indemnify, defend, and hold harmless the Licensor from and against any claims, damages, liabilities, losses, costs, and expenses, including reasonable legal fees, arising out of or related to:
+
+your use or misuse of the Product;
+your modifications or integrations;
+your breach of this Agreement;
+your violation of any law, regulation, or third-party right;
+your redistribution, resale, or publication of the Product beyond the permitted scope;
+any content, services, or claims made by you using the Product.
+10. Acceptable Use
+
+You agree not to use the Product in any manner that is deceptive, unlawful, harmful, abusive, fraudulent, or intended to infringe third-party rights.
+
+You are responsible for ensuring that your use of the Product complies with:
+
+applicable laws and regulations;
+platform or marketplace rules;
+client agreements;
+privacy and data protection obligations;
+security and compliance requirements relevant to your business.
+11. Freebies, Bonuses, and Ancillary Materials
+
+Free items, bonus items, sample files, and promotional materials are also Products and are governed by this Agreement unless the Licensor expressly states otherwise.
+
+The fact that a Product is free does not mean it is public domain or royalty-free for unrestricted distribution.
+
+12. License Verification and Revocation
+
+Where License Type B or any individualized permission is issued, the Licensor may use a license number, record, purchase proof, or authorization file to verify entitlement.
+
+The Licensor may revoke a license if the licensee:
+
+breaches this Agreement;
+exceeds the granted scope;
+redistributes the Product unlawfully;
+removes attribution or required notices;
+engages in fraud, abuse, or misrepresentation.
+
+Upon revocation, all rights granted under the license cease immediately, and you must stop using and distributing the affected Product.
+
+13. Term and Termination
+
+This Agreement remains in effect until terminated.
+
+Your rights automatically terminate if you fail to comply with any term of this Agreement. Upon termination, you must stop using the Product and delete or destroy all unauthorized copies in your possession or control, except where retention is required by law.
+
+Sections relating to ownership, disclaimers, limitation of liability, indemnification, and restrictions on unauthorized use survive termination.
+
+14. Changes to This Agreement
+
+The Licensor may update this Agreement from time to time. Updated terms will apply to future purchases, downloads, or grants unless otherwise stated in writing.
+
+The version in force at the time of acquisition governs your use of that specific Licensed Copy, unless a later written agreement replaces it.
+
+15. Governing Law and Venue
+
+This Agreement shall be governed by and construed in accordance with the laws of Poland, without regard to conflict-of-law principles.
+
+Any dispute arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts located in Radom, unless otherwise required by mandatory law.
+
+16. Entire Agreement
+
+This Agreement constitutes the entire understanding between you and the Licensor concerning the Product, unless superseded by a separate signed written agreement.
+
+If any provision is found unenforceable, the remaining provisions shall continue in full force and effect.
+
+
+17. Author Information
+
+Author / Licensor: Karol Lech Kwestarz-Maciejewski 
+Email: research@enhanced.world
+Website: 
+https://enhanced.world/ecs/ - Essential Crisis Software Open-Source Initiative.
+
+https://locally4me.org - X2X community platforms, deeptech startup.
+
+https://ko-fi.com/4community/shop - digital tools shop and support.
+
+
+18. Acceptance
+
+By using any Product, you acknowledge that you have read, understood, and agreed to this Agreement.
+
+© 2026 Karol's Own. All rights reserved.

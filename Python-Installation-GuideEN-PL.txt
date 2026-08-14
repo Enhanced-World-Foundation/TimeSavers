@@ -1,0 +1,102 @@
+Python Installation Guide / Instrukcja instalacji Pythona
+
+Languages / Języki 🇬🇧 English ↓ 🇵🇱 Polski ↓
+
+
+🇬🇧 English
+Python Installation (Windows)
+Step 1 — Download Python
+
+Go to the official website:
+
+https://www.python.org/downloads/
+
+Download the latest stable version for Windows.
+
+Step 2 — Run the installer
+
+Open the downloaded installer.
+
+IMPORTANT
+
+✔ Check "Add Python to PATH" before clicking Install Now.
+
+Then click Install Now.
+
+Step 3 — Finish installation
+
+Wait until installation completes.
+
+If Windows asks for administrator permission, click Yes.
+
+
+Optional Step 4 — Verify installation
+
+Open Command Prompt (cmd) and run:
+
+python --version
+
+or
+
+py --version
+
+You should see something similar to:
+
+Python 3.13.x
+
+You can also verify pip:
+
+pip --version
+Installation Complete
+
+Python is now ready to use.
+
+
+🇵🇱 Polski
+Instalacja Python (Windows)
+Krok 1 — Pobierz Python
+
+Wejdź na oficjalną stronę:
+
+https://www.python.org/downloads/
+
+Pobierz najnowszą stabilną wersję dla systemu Windows.
+
+Krok 2 — Uruchom instalator
+
+Uruchom pobrany instalator.
+
+WAŻNE
+
+✔ Zaznacz opcję "Add Python to PATH" przed kliknięciem Install Now.
+
+Następnie kliknij Install Now.
+
+Krok 3 — Zakończ instalację
+
+Poczekaj na zakończenie instalacji.
+
+Jeżeli system poprosi o uprawnienia administratora, wybierz Tak.
+
+
+Opcjonalny Krok 4 — Sprawdź instalację
+
+Otwórz Wiersz polecenia (cmd) i wpisz:
+
+python --version
+
+lub
+
+py --version
+
+Powinien pojawić się wynik podobny do:
+
+Python 3.13.x
+
+Możesz również sprawdzić pip:
+
+pip --version
+Gotowe
+
+Python został poprawnie zainstalowany i jest gotowy do użycia.
+
