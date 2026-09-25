@@ -5,7 +5,9 @@ Content list Github Archive Open Source Tools - Enhanced.World Initiative | Karo
 
 File Name - Description - Highlights - Version
 
-2. MyLocallAI_Installator_1Click-Basic+.zip- Checks the hardware, recommends one LLM model, installs Oolama and the model, benchmarks with recommendation. An Python depandand tool, ready for premium.py expansion - 1.01 EN / PL 
+3. Communication-1-Solo-Free-v0.931-stable.zip - Working Beta+, multi e-mail and rss assistant, reporting and time saving.
+
+2. MyLocallAI_Installator_1Click-Basic+.zip - Checks the hardware, recommends one LLM model, installs Oolama and the model, benchmarks with recommendation. An Python depandand tool, ready for premium.py expansion - 1.01 EN / PL 
 
 1. OneClick#1local_ai-vr1F.exe - Basic instalator for windows - downloads and installs Oolama & Qwen 3.5:7b, 0.99 PL 
 
